@@ -47,12 +47,19 @@ Through this application, students can improve their time management, stay organ
 ## How to Run
 1.	Requirements: Python 3.x 
 2.	Clone this repository:
-```
+	```bash
 		git clone https://github.com/keikuno/Student-Study-Pal.git
-```
-## Navigate to the project folder:
 
+## Navigate to the project folder:
+	  ```bash
+	  cd Student-Study-Pal
+	  ```
+	  
 ## Run the Application:
+	```bash
+	python "Student Study Pal.py"
+	```
+	
 ## Running Tests
 - Tests run automatically on startup before the application launches. The terminal will display each test result.
 
